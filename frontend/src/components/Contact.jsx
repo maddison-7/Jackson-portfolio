@@ -114,8 +114,8 @@ function Contact() {
               <Mail size={21} />
               <div>
                 <span>EMAIL</span>
-                <a href="mailto:hello@jacksonmadila.com">
-                  hello@jacksonmadila.com
+                <a href="mailto:jacksonmadila99@gmail.com">
+                  jacksonmadila99@gmail.com
                 </a>
               </div>
             </div>
@@ -124,8 +124,8 @@ function Contact() {
               <Phone size={21} />
               <div>
                 <span>PHONE</span>
-                <a href="tel:+255000000000">
-                  +255 XXX XXX XXX
+                <a href="tel:+255747616168">
+                  0747616168
                 </a>
               </div>
             </div>
@@ -137,6 +137,16 @@ function Contact() {
                 <p>Tanzania</p>
               </div>
             </div>
+
+            <a
+              className="btn btn-primary"
+              href="https://wa.me/255747616168?text=Hello%20Jackson%2C%20I%27d%20like%20to%20discuss%20a%20project."
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Contact Jackson on WhatsApp"
+            >
+              WhatsApp Chat
+            </a>
 
           </div>
 
